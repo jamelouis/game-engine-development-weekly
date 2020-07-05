@@ -2,6 +2,7 @@
 
 ## 2020
 
+* [第7期](weekly/2020/week007.md)
 * [第6期](weekly/2020/week006.md)
 * [第5期](weekly/2020/week005.md)
 * [第4期](weekly/2020/week004.md)
