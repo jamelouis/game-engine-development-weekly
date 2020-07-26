@@ -2,12 +2,13 @@
 
 ## 2020
 
-* [第9期](weekly/2020/week009.md)
-* [第8期](weekly/2020/week008.md)
-* [第7期](weekly/2020/week007.md)
-* [第6期](weekly/2020/week006.md)
-* [第5期](weekly/2020/week005.md)
-* [第4期](weekly/2020/week004.md)
-* [第3期](weekly/2020/week003.md)
-* [第2期](weekly/2020/week002.md)
-* [第1期](weekly/2020/week001.md)
+* [第10期](weekly/2020/week010.md)
+* [第09期](weekly/2020/week009.md)
+* [第08期](weekly/2020/week008.md)
+* [第07期](weekly/2020/week007.md)
+* [第06期](weekly/2020/week006.md)
+* [第05期](weekly/2020/week005.md)
+* [第04期](weekly/2020/week004.md)
+* [第03期](weekly/2020/week003.md)
+* [第02期](weekly/2020/week002.md)
+* [第01期](weekly/2020/week001.md)
