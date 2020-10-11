@@ -2,6 +2,7 @@
 
 ## 2020
 
+* [第16期](weekly/2020/week016.md)
 * [第15期](weekly/2020/week015.md)
 * [第14期](weekly/2020/week014.md)
 * [第13期](weekly/2020/week013.md)
